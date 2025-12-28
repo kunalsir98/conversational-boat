@@ -1,0 +1,13 @@
+flask 
+Streamlit 
+langchain
+python-dotenv 
+langchain-groq 
+groq
+langchain_core
+fastapi
+uvicorn
+langserve[all]
+langchain-community
+langchain-huggingface
+bs4 
