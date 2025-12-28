@@ -11,3 +11,4 @@ langserve[all]
 langchain-community
 langchain-huggingface
 bs4 
+langchain_chroma
